@@ -1,0 +1,296 @@
+
+> verifypay-backend@1.0.0 start
+> node server.js
+
+Servidor corriendo en puerto 5000
+Conectado a la base de datos SQLite
+{
+  status: 'loading tesseract core',
+  progress: 0,
+  userJobId: 'Job-0-cc853'
+}
+{
+  status: 'loading tesseract core',
+  progress: 1,
+  userJobId: 'Job-0-cc853'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'initializing tesseract',
+  progress: 0,
+  userJobId: 'Job-0-cc853'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'initializing tesseract',
+  progress: 1,
+  userJobId: 'Job-0-cc853'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'loading language traineddata',
+  progress: 0,
+  userJobId: 'Job-1-ae3ea'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'loading language traineddata',
+  progress: 0.5,
+  userJobId: 'Job-1-ae3ea'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'loading language traineddata',
+  progress: 1,
+  userJobId: 'Job-1-ae3ea'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'initializing api',
+  progress: 0,
+  userJobId: 'Job-2-fc5da'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  status: 'initializing api',
+  progress: 1,
+  userJobId: 'Job-2-fc5da'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.04285714285714286,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.08571428571428572,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.12857142857142856,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.17142857142857143,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.21428571428571427,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.2571428571428571,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.3,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.35714285714285715,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.4,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.44285714285714284,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.4857142857142857,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.5285714285714286,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.5714285714285714,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.6142857142857143,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.6571428571428571,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 1,
+  userJobId: 'Job-4-f96a5'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.04285714285714286,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.08571428571428572,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.12857142857142856,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.17142857142857143,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.21428571428571427,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.2571428571428571,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.3,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.35714285714285715,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.4,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.44285714285714284,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.4857142857142857,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.5285714285714286,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.5714285714285714,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.6142857142857143,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 0.6571428571428571,
+  userJobId: 'Job-5-c4003'
+}
+{
+  workerId: 'Worker-0-1f8ab',
+  jobId: 'Job-0-cc853',
+  status: 'recognizing text',
+  progress: 1,
+  userJobId: 'Job-5-c4003'
+}
