@@ -12,7 +12,7 @@ services:
       - key: JWT_SECRET
         generateValue: true # Render will generate a random string
 
-  - type: static
+  - type: static site
     name: verifypay-frontend
     plan: free
     rootDir: frontend
