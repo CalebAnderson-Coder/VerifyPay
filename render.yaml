@@ -12,12 +12,13 @@ services:
       - key: JWT_SECRET
         generateValue: true # Render will generate a random string
 
-  - type: static site
+  - type: web
     name: verifypay-frontend
+    runtime: static
     plan: free
     rootDir: frontend
     buildCommand: npm install && npm run build
-    publishPath: ./build
+    staticPublishPath: build
     envVars:
       - key: REACT_APP_API_URL
         fromService:
