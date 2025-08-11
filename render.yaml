@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: verifypay-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true # Render will generate a random string
+
+  - type: static
+    name: verifypay-frontend
+    plan: free
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    publishPath: ./build
+    envVars:
+      - key: REACT_APP_API_URL
+        fromService:
+          type: web
+          name: verifypay-backend
+          property: url
